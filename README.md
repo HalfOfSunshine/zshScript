@@ -37,7 +37,7 @@
 ### [pod](Scripts/pod) : CocoaPods
 [pod_trunk_push](Scripts/pod/pod_trunk_push.sh) ：
 更新sdk，需要cd到.spec所在文件夹下。
-直接读取当前路径下的.podspec文件，并将其中的s.version 字段作为版本号，自动给github项目打tag，并将发布pod版本。
+直接读取当前路径下的.podspec文件，并提取其中的s.version 字段作为版本号，自动给github项目打tag，并将发布pod版本。
 使用：
 ```
 cd SDKProj
