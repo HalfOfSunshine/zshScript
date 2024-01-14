@@ -7,11 +7,25 @@ html:
 
 print_background: true
 ---
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [zshScript](#zshscript)
+  - [介绍](#介绍)
+    - [jailbreak ：逆向相关](#jailbreakscriptsjailbreak-逆向相关)
+    - [pod : CocoaPods](#podscriptspod--cocoapods)
+    - [work ：工作相关](#workscriptswork-工作相关)
+    - [other：其他](#otherscriptsother其他)
+
+<!-- /code_chunk_output -->
+
 
 # zshScript
-整理一些自己用过的的脚本文件,运行环境为mac ， zsh
 
 ## 介绍
+整理一些自己用过的的脚本文件
+运行环境：mac ， zsh
 
 ### [jailbreak](Scripts/jailbreak) ：逆向相关
 [tweak](Scripts/jailbreak/tweak.sh) ：打包安装tewak插件
