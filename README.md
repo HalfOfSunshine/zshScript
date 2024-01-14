@@ -1,12 +1,4 @@
----
-html:
-  embed_local_images: false
-  embed_svg: true
-  offline: false
-  toc: true
 
-print_background: true
----
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
